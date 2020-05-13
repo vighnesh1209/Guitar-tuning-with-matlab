@@ -1,0 +1,2 @@
+# Guitar-tuning-with-matlab
+1.What Is a Guitar Tuner? A guitar tuner is a device that measures the frequencies produced by vibrating strings on an electric guitar or an acoustic guitar. It then aligns those measurements with notes in a scale. If the frequencies match a particular note, the tuner will display the name of that note on an LED display. There are also bass tuners specially made for bass guitars and string basses, but in a pinch, a guitar tuner will often work for both guitars and bass instruments. 
